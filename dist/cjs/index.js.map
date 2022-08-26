@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../../src/components/Button/Button.tsx"],"sourcesContent":[null],"names":["props","React","createElement","onClick","text"],"mappings":"qLAKA,SAAgBA,GACZ,OACIC,EAAA,QAAAC,cAAA,MAAA,KACID,UAAAC,cAAA,SAAA,CAAQC,QAASH,EAAMG,SAAUH,EAAMI,MAGnD"}
